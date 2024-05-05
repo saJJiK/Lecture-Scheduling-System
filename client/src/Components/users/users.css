@@ -1,0 +1,15 @@
+.background-users{
+    background-image:  url('../../assets/pictures/Admin bg.png');
+    position: inherit;
+    display:flex;
+}
+h3{
+    color:#0056b3;
+    font-size: 40px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.update-btn{
+    color: black;
+}
